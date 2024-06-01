@@ -1,0 +1,2 @@
+String str = "   ";
+boolean result = str.isBlank(); // true
